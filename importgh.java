@@ -1,8 +1,5 @@
 //usr/bin/env jbang "$0" "$@" ; exit $?
-//JAVA 14+
-//JAVAC_OPTIONS --enable-preview -source 14
-//JAVA_OPTIONS --enable-preview 
-// -XX:StartFlightRecording=filename=terraformer.jfr,settings=file.jfc
+//JAVA 17
 //DEPS info.picocli:picocli:4.2.0
 //DEPS org.kohsuke:github-api:1.115
 //DEPS com.fasterxml.jackson.core:jackson-databind:2.2.3
